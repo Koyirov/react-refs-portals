@@ -11,6 +11,6 @@ function ResultModal({result, targetTime, ref}) {
             </form>
         </dialog>
     )
-})
+}
 
 export default ResultModal;
